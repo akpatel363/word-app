@@ -1,0 +1,8 @@
+{
+  "env": {
+    "PORT": YOUR_PORT,
+    "APP_KEY": "YOUR_APP_KEY",
+    "APP_ID": "YOUR_APP_ID",
+    "MONGO_URI": "YOUR_MONGO_URI"
+  }
+}
